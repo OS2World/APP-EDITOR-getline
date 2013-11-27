@@ -10,6 +10,7 @@ LICENSE
 COMPILE TOOLS
 ===============
 * IBM C
+* GCC
 
 AUTHORS
 ===============
